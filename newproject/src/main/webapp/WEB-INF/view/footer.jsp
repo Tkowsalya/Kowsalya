@@ -27,10 +27,11 @@
 <ul class="nav navbar-nav navbar-right">
 
       
-        <li><a href="#"><i class="fa  fa-facebook fa-md"></i></a></li>
+        <li><a href="https://www.facebook.com/"><i class="fa  fa-facebook fa-md"></i></a></li>
         <li><a href="#"><i class="fa fa-twitter  fa-md"></i></a></li>
+        <li><a href="#"><i class="fa fa-google  fa-md"></i></a></li>
         </ul>
-</div>
+</div> 
 </div>
 </nav>
 
